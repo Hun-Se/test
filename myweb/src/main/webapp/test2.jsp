@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<div>테스트2 입니다</div>
+	<div>테스트 입니다</div>
 </body>
 </html>
